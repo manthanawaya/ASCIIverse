@@ -1,0 +1,6 @@
+# Secret environment variables
+.env
+
+# Downloaded videos and caches
+*.mp4
+__pycache__/
